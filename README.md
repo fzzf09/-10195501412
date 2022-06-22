@@ -1,1 +1,4 @@
 # distributed
+mapreduce为使用缓存的机制的程序
+MapReduceDemo为未使用缓存的机制的程序
+data用于生成input数据
